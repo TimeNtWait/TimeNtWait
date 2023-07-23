@@ -19,11 +19,17 @@
 - [Алгоритмы и структуры МФТИ](../../../Algorithms/tree/master/mipt_lections/mipt_lections/)
 - [Yandex Contest](../../../Yandex_Contest)
 - [Tinkoff Contest](../../../Tinkoff_Algorithms):
+- [Yandex Contest](../../../Yandex_Contest)
+- [Yandex Algorithms 1.0](../../../Yandex_Contest/tree/main/Yandex_Algorithms_1_0)
+- [Yandex Algorithms 3.0](../../../Yandex_Contest/tree/main/Yandex_Algorithms_3_0)
 
 ***
 ## ML Contests:
 - [Alls ML Contests](../../../Contest)
 - [MADE Contest Summer 2022](../../../MADE)
+- [Yandex ML Contest 2021](../../../Yandex_Contest/tree/main/ML_Contest_2021)
+- [Yandex ML Contest 2022](../../../Yandex_Contest/tree/main/ML_Contest_2022)
+
 
 ***
 ## Schools:
