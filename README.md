@@ -20,7 +20,7 @@
 - [Yandex Contest](../../../Yandex_Contest)
 - [Tinkoff Contest](../../../Tinkoff_Algorithms)
 - [Yandex Algorithms 1.0](../../../Yandex_Contest/tree/main/Yandex_Algorithms_1_0)
-- [Yandex Algorithms 3.0](../../../Yandex_Contest/tree/main/Yandex_Algorithms_3_0)
+- [Yandex Algorithms 3.0](../../../Yandex_Contest/tree/main/Yandex_Algorithms_3_0 (2023))
 
 ***
 ## ML Contests:
