@@ -15,8 +15,8 @@
 ***
 ## Algorithms:
 - [Alls Algorithms](../../../Algorithms)
-- [LeetCode Problems](../../../Algorithms/leet_code)
-- [Алгоритмы и структуры МФТИ](../../../Algorithms/mipt_lections/mipt_lections/)
+- [LeetCode Problems](../../../Algorithms/tree/master/leet_code)
+- [Алгоритмы и структуры МФТИ](../../../Algorithms/tree/master/mipt_lections/mipt_lections/)
 - [Yandex Contest](../../../Yandex_Contest)
 - [Tinkoff Contest](../../../Tinkoff_Algorithms):
 
@@ -28,8 +28,8 @@
 ***
 ## Schools:
 - [Alls Schools](../../../School)
-- [Deep Learning School](../../../School/dls)
-- [Quick start in artificial intelligence](../../../School/quick_start_ml_mipt)
+- [Deep Learning School](../../../School/tree/master/dls)
+- [Quick start in artificial intelligence](../../../School/tree/master/quick_start_ml_mipt)
 
 
 
