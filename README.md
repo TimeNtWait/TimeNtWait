@@ -1,7 +1,7 @@
 ### Hi there 👋 =)
 ***
 ## Hackathons:
-- [Alls Hackathons](../../../Hackathons)
+- [All Hackathons](../../../Hackathons)
 - [Цифровой прорыв. Окружной хакатон УФО 2023](../../../Hack_AI_MosStroy_2023)
 - [Лидеры цифровой трансформации 2023](../../../Hack_Leaders_2023)
 - [Цифровой прорыв. Окружной хакатон ЦФО 2023 (трек: VK)](../../../Hack_AI_VK_2023)
@@ -14,7 +14,7 @@
 
 ***
 ## Algorithms:
-- [Alls Algorithms](../../../Algorithms)
+- [All Algorithms](../../../Algorithms)
 - [LeetCode Problems](../../../Algorithms/tree/master/leet_code)
 - [Алгоритмы и структуры МФТИ](../../../Algorithms/tree/master/mipt_lections/mipt_lections/)
 - [Yandex Contest](../../../Yandex_Contest)
@@ -24,7 +24,7 @@
 
 ***
 ## ML Contests:
-- [Alls ML Contests](../../../Contest)
+- [All ML Contests](../../../Contest)
 - [MADE VK Contest 2022](../../../Contest/tree/master/MADE)
 - [Yandex ML Contest 2021](../../../Yandex_Contest/tree/main/ML_Contest_2021)
 - [Yandex ML Contest 2022](../../../Yandex_Contest/tree/main/ML_Contest_2022)
@@ -32,7 +32,7 @@
 
 ***
 ## Schools:
-- [Alls Schools](../../../School)
+- [All Schools](../../../School)
 - [Deep Learning School](../../../School/tree/master/dls)
 - [Quick start in artificial intelligence](../../../School/tree/master/quick_start_ml_mipt)
 
