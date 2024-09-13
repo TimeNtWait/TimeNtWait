@@ -2,6 +2,7 @@
 ***
 ## Hackathons:
 - [All Hackathons](../../../Hackathons)
+- [Hack_OZON_2024](../../../Hack_OZON_2024) 
 - [Цифровой прорыв. Окружной Хакатон УрФО 2024 - 1 место](../../../Hack_AI_StroyClass_2024)
 - [Data Fusion Contest 2024 - 1 место](../../../Hack_ODS_2024)
 - [Цифровой прорыв. Всероссийский хакатон 2023 - 1 место](../../../Hack_AI_Samolet_2023)
