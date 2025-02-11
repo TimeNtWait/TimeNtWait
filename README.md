@@ -19,8 +19,8 @@
 - [Лидеры цифровой трансформации 2022 (Правительство Москвы)](../../../Hack_Leaders_2022)
 - [Skolkovo Hack 2022](../../../Hack_Skolkovo_2022)
 - [Хакатон Avanpost Challenge 2022](../../../Hack_Avanpost_2022)
-- [ВТБ MORE Tech 4.0 2022](../../../Hack_VTB_MORE_Tech_4)
 - [Идеатон X-MAS Hack 2022 - 1 место](../../../Hack_Ideaton_XMas_2022)
+- [ВТБ MORE Tech 4.0 2022](../../../Hack_VTB_MORE_Tech_4)
 - [ТурбоХакатон 2022](../../../Hack_TurboHack_2022)
 
 ***
