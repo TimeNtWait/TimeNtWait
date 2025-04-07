@@ -2,6 +2,7 @@
 ***
 ## Hackathons:
 - [All Hackathons](../../../Hackathons)
+- [Data Fusion Contest 2025 - Задача 1 Label Craft](../../../Hack_ODS_2025) 
 - [Всероссийский Хакатон ФИЦ 2024 - 1 место](../../../Hack_FIC_2024)
 - [Цифровой прорыв. Международный хакатон 2024 - 1 место](../../../Hack_AI_Atom)
 - [E-CUP OZON Tech 2024](../../../Hack_OZON_2024) 
