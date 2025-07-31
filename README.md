@@ -1,4 +1,10 @@
 ### Hi there 👋 =)
+
+***
+## Projects:
+
+[LLM Domain Adapter Kit: Fine-Tuning LLMs with TSDAE + QLoRA](../../../llm_finetune_qlora_tsdae_kit) 
+
 ***
 ## Hackathons:
 - [All Hackathons](../../../Hackathons)
