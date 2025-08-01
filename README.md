@@ -47,13 +47,13 @@
 - [Yandex ML Contest 2021](../../../Yandex_Contest/tree/main/ML_Contest_2021)
 - [Yandex ML Contest 2022](../../../Yandex_Contest/tree/main/ML_Contest_2022)
 
-
+<!--
 ***
 ## Schools:
 - [All Schools](../../../School)
 - [Deep Learning School](../../../School/tree/master/dls)
 - [Quick start in artificial intelligence](../../../School/tree/master/quick_start_ml_mipt)
-
+-->
 
 
 <!--
