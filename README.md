@@ -3,8 +3,8 @@
 ***
 ## Public projects:
 
-[LLM Domain Adapter Kit: Fine-Tuning LLMs with TSDAE + QLoRA](../../../llm_finetune_qlora_tsdae_kit)   
-[Fine-Tuning E5-small под домен русскоязычных описаний товаров маркетплейсов](../../../llm_finetune_qlora_tsdae_kit/README_e5_fine_tune-ru-products.md) 
+- [LLM Domain Adapter Kit: Fine-Tuning LLMs with TSDAE + QLoRA](../../../llm_finetune_qlora_tsdae_kit)   
+- [Fine-Tuning E5-small под домен русскоязычных описаний товаров маркетплейсов](../../../llm_finetune_qlora_tsdae_kit/README_e5_fine_tune-ru-products.md) 
 
 ***
 ## Hackathons:
